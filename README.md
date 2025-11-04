@@ -86,7 +86,9 @@ plt.show()
 <img width="400" height="436" alt="500887975-5276cf09-2dd1-452a-9ed1-dd0bf4338bce" src="https://github.com/user-attachments/assets/61791311-074d-4678-8528-19e90dc1c7a4" />
 
 <img width="311" height="295" alt="500888057-2a9f2d89-dad9-475c-8c48-299aba05c0d4" src="https://github.com/user-attachments/assets/0764d7a9-c565-4a32-8b6f-ac37c78ed8a5" />
+
 <img width="315" height="25" alt="500888134-fc42b67e-1a52-46bf-b144-51df3a83d9bb" src="https://github.com/user-attachments/assets/04e32a84-47c0-4a5a-ae0e-bd866d6ee971" />
+
 <img width="1270" height="850" alt="500888188-53c66b62-a5c0-4086-abd7-c3e91abd7cb6" src="https://github.com/user-attachments/assets/ad4a0e58-0341-4f12-9365-5d64b2af5a77" />
 
 
